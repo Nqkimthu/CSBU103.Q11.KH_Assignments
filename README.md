@@ -6,7 +6,7 @@ This repository contains assignments for the course **CSBU103 – Website Design
 ## 📅 Submission Info
 - **Student:** Nguyễn Kim Thư  
 - **ID:** 25560057  
-- **Course:** CSBU103.Q11.KH  
+- **Course:** CSBU103.Q11.KHBC
 - **Instructor:** Đặng Lê Bảo Chương
 
 ## 📝 Notes
